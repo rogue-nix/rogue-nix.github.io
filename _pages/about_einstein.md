@@ -3,6 +3,7 @@
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+
 I am Nikhil Laxminarayana, a third year undergraduate student at the Department of Electronics and Communications Engineering at Indian Institute of Information Technology, Kalyani, West Bengal, IN.
 
 Currently I have 1 journal publication, which you can see [here](/publications) and am on a lookout for research projects. I like to pursue research in topics on wireless communications, quantum machine learning and communications, and like tinkering with various deep learning and reinforcement learning methods. I am also passionate about distributed systems research and application of machine learning to cybersecurity. I look forward to delving deeper into the realm of digital CMOS VLSI later this year and to integrate these design flows with increasing functionalities for architectures like ARM, x86, RISC-V, etc.
